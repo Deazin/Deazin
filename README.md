@@ -6,6 +6,7 @@ Studying web development
 * JS
 * TYPESCRIPT
 * REACT NATIVE
+* VUE
 
 
 
